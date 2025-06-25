@@ -27,11 +27,29 @@ Fine-tuned GPT-3.5-turbo model for real estate valuation based on structured par
 
 ## 🧪 Prompt Example
 ```
+---
 Surface: 82 m²  
 Type: house  
 Condition: good  
 Location: outskirts of mid-sized city (zone B1)
 ```
+⚙️ Integration in Make (no-code automation)
+The Lyra_Immo model has been successfully integrated into a Make scenario for real-time use.
+
+The workflow performs the following steps:
+
+Webhook trigger — receives an incoming message (manual or automated)
+
+Client message — fetches content from a Google Doc
+
+Lyra Immo (GPT) — sends the prompt to the fine-tuned model
+
+Lyra Immo Response — creates a new document with the estimation
+
+
+This simple and efficient scenario allows users to automate valuation requests with professional and contextualized responses.
+
+---
 
 ## 📁 Included Files & Structure
 ```
