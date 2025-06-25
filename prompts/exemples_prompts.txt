@@ -1,0 +1,26 @@
+# Prompts tests
+
+Surface : 55 m²
+Type : appartement
+État : bon
+Localisation : centre-ville de petite ville
+
+Surface : 120 m²
+Type : maison
+État : à rénover
+Localisation : campagne, zone C
+
+Surface : 68 m²
+Type : appartement
+État : moyen
+Localisation : grande ville (zone A)
+
+Surface : 95 m²
+Type : maison
+État : neuf
+Localisation : zone périurbaine (zone B1)
+
+Surface : 47 m²
+Type : appartement
+État : bon
+Localisation : périphérie urbaine (zone B2)

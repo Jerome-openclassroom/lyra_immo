@@ -1,45 +1,58 @@
-# Lyra_immo
+# Lyra_Immo
 
-## 🏡 Objectif
-Modèle IA fine-tuné sur `gpt-3.5-turbo` pour l'estimation de biens immobiliers à partir de paramètres structurés.
+## 🏡 Objective
+Fine-tuned GPT-3.5-turbo model for real estate valuation based on structured parameters.
 
-## 📥 Données en entrée
-- Surface (m²)
-- Type de bien (appartement, maison, etc.)
-- État général (neuf, bon, moyen, à rénover)
-- Localisation (zone géographique, rural / urbain / périurbain)
-- Coefficients multiplicateurs (implicites via barème)
+## 📥 Input Data
+- Surface area (m²)
+- Property type (house, apartment, etc.)
+- Overall condition (new, good, average, renovation needed)
+- Location (region, rural / urban / suburban)
+- Implicit coefficients (from scoring table)
 
-## 🧾 Sortie
-- Estimation de la valeur du bien exprimée en euros
-- Réponse contextualisée (ton professionnel, fluide)
+## 🧾 Output
+- Estimated property value (in euros)
+- Contextualized response (professional tone, fluent)
 
-## 🔍 Détails d'entraînement
-- 150 lignes d’entraînement, 30 de validation
-- Entraînement sur prompts semi-naturels avec structure cohérente
-- Hyperparamètres : `3 epochs`, `batch size = 1`, `learning rate multiplier = 2`
+## 🔍 Training Details
+- 150 training examples (`datasets/dataset_lyra_immo.jsonl`)
+- 30 validation examples (`datasets/validation_lyra_immo.jsonl`)
+- Semi-natural prompts with structured logic
+- Hyperparameters: `3 epochs`, `batch size = 1`, `learning rate multiplier = 2`
 
-## 📊 Comportement observé
-- Très bonne cohérence avec le barème implicite
-- Réponses stables et polies
-- Capacité de généralisation à des formulations utilisateur variées
+## 📊 Observed Behavior
+- Strong alignment with implicit valuation table
+- Stable, well-phrased, professional answers
+- Generalizes well to varied natural user inputs
 
-## 🧪 Exemple de prompt
+## 🧪 Prompt Example
 ```
-Surface : 82 m²
-Type : maison
-État : bon
-Localisation : périphérie de ville moyenne (zone B1)
+Surface: 82 m²  
+Type: house  
+Condition: good  
+Location: outskirts of mid-sized city (zone B1)
 ```
 
-## 📁 Fichiers inclus
-- `dataset_lyra_immo.jsonl` — 150 cas d'entraînement
-- `validation_lyra_immo.jsonl` — 30 cas de validation
-- `exemples_prompts.txt` — prompts tests variés
-- `barème.xlsx` — table de coefficients utilisée
+## 📁 Included Files & Structure
+```
+Lyra_Immo/
+├── costs_estate/
+│   └── barème.xlsx
+├── datasets/
+│   ├── dataset_lyra_immo.jsonl
+│   └── validation_lyra_immo.jsonl
+├── French_description/
+│   ├── Synthèse intégration dans Make.pdf
+│   └── Synthèse pour GitHub.pdf
+├── Make/
+│   └── Workflow Make Lyra Immo.jpg
+├── prompts/
+│   └── exemples_prompts.txt
+└── README.md
+```
 
 ## 🛠️ Usage
-Utilisable dans Make, n8n ou via API OpenAI (fine-tuned model ID requis)
+Compatible with Make, n8n, or any GPT API using the fine-tuned model ID.
 
-## 📄 Licence
-Modèle à usage pédagogique et démonstratif uniquement.
+## 📄 License
+For educational and demonstrative use only.
