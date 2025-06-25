@@ -27,12 +27,14 @@ Fine-tuned GPT-3.5-turbo model for real estate valuation based on structured par
 
 ## 🧪 Prompt Example
 ```
----
 Surface: 82 m²  
 Type: house  
 Condition: good  
 Location: outskirts of mid-sized city (zone B1)
 ```
+
+---
+
 ⚙️ Integration in Make (no-code automation)
 The Lyra_Immo model has been successfully integrated into a Make scenario for real-time use.
 
