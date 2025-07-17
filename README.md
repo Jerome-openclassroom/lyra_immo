@@ -25,13 +25,40 @@ Fine-tuned GPT-3.5-turbo model for real estate valuation based on structured par
 - Stable, well-phrased, professional answers
 - Generalizes well to varied natural user inputs
 
-## 🧪 Prompt Example
-```
-Surface: 82 m²  
-Type: house  
-Condition: good  
-Location: outskirts of mid-sized city (zone B1)
-```
+## ✅ Model Behavior: Fine-tuned vs Base GPT-3.5
+
+We tested the Lyra_Immo fine-tuned model against the base GPT-3.5-turbo using a set of 5 realistic prompts, each requesting a real estate valuation. The results are unambiguous:
+
+**Prompt (multi-query):**
+
+Can you give me an estimate for each of the following properties?
+
+Apartment, 68 m², good condition, zone B2
+
+House, 115 m², to renovate, zone C
+
+Apartment, 52 m², new, downtown zone A
+
+House, 140 m², average condition, outskirts zone B1
+
+Studio, 41 m², good condition, zone B2
+
+
+**Base model (GPT-3.5-turbo):**  
+> *"As a language model, I am not qualified to provide real estate valuations..."*  
+> (The model either refuses or produces vague, non-numeric responses.)
+
+**Fine-tuned model (Lyra_Immo):**
+Estimation : 178 060 €
+Estimation : 141 750 €
+Estimation : 248 400 €
+Estimation : 319 000 €
+Estimation : 123 620 €
+
+
+**Conclusion:**  
+The fine-tuned model generalizes the valuation logic learned from the training set and applies it confidently across all queries, even on edge cases (small surface, degraded condition). This behavior confirms the success of the fine-tuning and the model’s operational readiness for integration into automated workflows.
+
 
 ---
 
