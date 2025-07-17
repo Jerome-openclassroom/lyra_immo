@@ -20,6 +20,24 @@ Fine-tuned GPT-3.5-turbo model for real estate valuation based on structured par
 - Semi-natural prompts with structured logic
 - Hyperparameters: `3 epochs`, `batch size = 1`, `learning rate multiplier = 2`
 
+## 📊 Training Metrics Summary
+
+The Lyra_Immo model was fine-tuned on 150 structured examples, with 30 validation cases, using OpenAI’s standard hyperparameters:
+
+- Epochs: 3  
+- Batch size: 1  
+- Learning rate multiplier: 2  
+- Shuffle: enabled
+
+The model showed stable convergence throughout training.  
+Key performance metric:
+
+- **Full validation loss**: `0.867`  
+- **Final validation loss (last step)**: `0.463`
+
+These values indicate consistent generalization and alignment with the implicit valuation logic. No sign of overfitting or instability was observed.
+
+
 ## 📊 Observed Behavior
 - Strong alignment with implicit valuation table
 - Stable, well-phrased, professional answers
