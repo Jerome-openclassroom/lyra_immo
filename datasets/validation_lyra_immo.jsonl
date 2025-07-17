@@ -1,30 +1,30 @@
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
-{"messages":[{"role":"user","content":"Surface : 60 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B2"},{"role":"assistant","content":"Estimation : 165 000 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 53 m²\nType : appartement\nÉtat : bon\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 206700 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 84 m²\nType : appartement\nÉtat : neuf\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 257040 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 65 m²\nType : maison\nÉtat : neuf\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 253500 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 121 m²\nType : maison\nÉtat : moyen\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 282838 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 47 m²\nType : maison\nÉtat : bon\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 152750 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 84 m²\nType : maison\nÉtat : à rénover\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 138600 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 102 m²\nType : appartement\nÉtat : à rénover\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 156060 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 66 m²\nType : maison\nÉtat : moyen\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 154275 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 137 m²\nType : maison\nÉtat : à rénover\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 226050 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 119 m²\nType : maison\nÉtat : bon\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 386750 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 65 m²\nType : maison\nÉtat : bon\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 178750 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 109 m²\nType : maison\nÉtat : à rénover\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 212550 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 143 m²\nType : maison\nÉtat : neuf\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 557700 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 44 m²\nType : maison\nÉtat : bon\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 93500 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 154 m²\nType : appartement\nÉtat : à rénover\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 235620 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 64 m²\nType : maison\nÉtat : moyen\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 176800 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 103 m²\nType : maison\nÉtat : bon\nLocalisation : zone B2"}, {"role": "assistant", "content": "Estimation : 257500 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 127 m²\nType : maison\nÉtat : neuf\nLocalisation : zone B2"}, {"role": "assistant", "content": "Estimation : 381000 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 113 m²\nType : appartement\nÉtat : neuf\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 447480 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 148 m²\nType : appartement\nÉtat : bon\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 488400 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 82 m²\nType : appartement\nÉtat : à rénover\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 191880 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 56 m²\nType : appartement\nÉtat : moyen\nLocalisation : zone B1"}, {"role": "assistant", "content": "Estimation : 157080 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 147 m²\nType : maison\nÉtat : moyen\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 265519 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 79 m²\nType : appartement\nÉtat : neuf\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 241740 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 146 m²\nType : maison\nÉtat : moyen\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 403325 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 45 m²\nType : maison\nÉtat : à rénover\nLocalisation : zone B2"}, {"role": "assistant", "content": "Estimation : 67500 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 72 m²\nType : appartement\nÉtat : à rénover\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 110160 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 94 m²\nType : maison\nÉtat : neuf\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 239700 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 151 m²\nType : maison\nÉtat : bon\nLocalisation : zone C"}, {"role": "assistant", "content": "Estimation : 320875 €"}]}
+{"messages": [{"role": "user", "content": "Surface : 153 m²\nType : appartement\nÉtat : à rénover\nLocalisation : zone A"}, {"role": "assistant", "content": "Estimation : 358020 €"}]}
