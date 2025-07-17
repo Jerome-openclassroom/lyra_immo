@@ -3,6 +3,17 @@
 ## 🏡 Objective
 Fine-tuned GPT-3.5-turbo model for real estate valuation based on structured parameters.
 
+## 🧬 Model Reference
+
+The current fine-tuned model (v2) is available under the following ID:
+
+ft:gpt-3.5-turbo-0125:personal:lyra-immo:BuL5kHFV
+
+This is the **second and corrected version** of the Lyra_Immo model.  
+It replaces the previous version which was trained on a duplicated dataset and lacked true generalization.
+
+This updated model integrates a reliable valuation logic based on structured parameters (surface, type, condit
+
 ## 📥 Input Data
 - Surface area (m²)
 - Property type (house, apartment, etc.)
